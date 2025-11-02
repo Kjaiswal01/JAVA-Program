@@ -1,5 +1,5 @@
 // Package name
-package ARRAYS.SORTING;
+package SORTING;
 
 // Class definition
 public class HeapSort {
